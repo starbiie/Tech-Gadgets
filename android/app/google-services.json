@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503871729956",
+    "project_id": "tech-gadgets-268cd",
+    "storage_bucket": "tech-gadgets-268cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503871729956:android:5df5ff8d8a585d01f5c3b1",
+        "android_client_info": {
+          "package_name": "com.example.techgadgets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQH8mut09SD-IEkjsTn6Ub7IHo0QhQqgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
